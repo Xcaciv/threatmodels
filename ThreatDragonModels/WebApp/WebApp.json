@@ -1,0 +1,16 @@
+{
+  "version": "2.1.1",
+  "summary": {
+    "title": "WebApp",
+    "owner": "",
+    "description": "This is a threat model from the code perspective for the purpose of discussing input and output value trust and encoding.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
